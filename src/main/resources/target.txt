@@ -1,0 +1,169 @@
+<div class="data__name">
+                                <h1 class="data__name_txt" title="One Last Kiss">One Last Kiss</h1>
+                            </div>
+                            <div class="data__singer">
+                                <i class="icon_singer sprite"></i>
+                                <a class="data__singer_txt" title="宇多田光 (宇多田ヒカル)" href="/n/ryqq/singer/002JptyK0sIn6P">宇多田光 (宇多田ヒカル)</a>
+                            </div>
+                            <ul class="data__info">
+                                <li class="data_info__item_song">语种：
+                                <!-- -->
+                                日语</li>
+                                <li class="data_info__item_song">发行时间：
+                                <!-- -->
+                                2021-03-09</li>
+                                <li class="data_info__item_song">唱片公司：
+                                <!-- -->
+                                索尼音乐</li>
+                                <li class="data_info__item_song">类型：
+                                <!-- -->
+                                EP</li>
+                            </ul>
+                            <div class="data__actions" role="toolbar">
+                                <a class="mod_btn_green">
+                                    <i class="mod_btn_green__icon_play"></i>
+                                    <span class="btn__txt">播放全部</span>
+                                </a>
+                                <a class="mod_btn">
+                                    <i class="mod_btn__icon_like "></i>
+                                    <span class="btn__txt">收藏</span>
+                                </a>
+                                <a class="mod_btn">
+                                    <i class="mod_btn__icon_comment"></i>
+                                    <span class="btn__txt">评论</span>
+                                </a>
+                                <a class="mod_btn">
+                                    <i class="mod_btn__icon_menu"></i>
+                                    <span class="btn__txt">更多</span>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="detail_layout">
+                        <div class="detail_layout__main ">
+                            <div class="mod_songlist ">
+                                <ul class="songlist__header">
+                                    <li class="songlist__header_name">歌曲</li>
+                                    <li class="songlist__header_author">歌手</li>
+                                    <li class="songlist__header_time">时长</li>
+                                </ul>
+                                <ul class="songlist__list">
+                                    <li>
+                                        <div class="songlist__item songlist__item--even">
+                                            <div class="songlist__number songlist__number--top">1</div>
+                                            <div class="songlist__songname">
+                                                <a class="songlist__icon songlist__icon_mv sprite" title="MV" href="/n/ryqq/mv/b0036e48p6t">
+                                                    <span class="icon_txt">MV</span>
+                                                </a>
+                                                <i class="songlist__icon songlist__icon_vip sprite" title="VIP"></i>
+                                                <span class="songlist__songname_txt">
+                                                    <a title="One Last Kiss (最后一吻)" href="/n/ryqq/songDetail/003Rxsvb1Vwl5U">
+                                                        One Last Kiss (最后一吻)<span class="songlist__song_txt">《新世纪福音战士：终》剧场版主题曲</span>
+                                                    </a>
+                                                </span>
+                                                <div class="mod_list_menu">
+                                                    <a class="list_menu__item list_menu__play" title="播放">
+                                                        <i class="list_menu__icon_play"></i>
+                                                        <span class="icon_txt">播放</span>
+                                                    </a>
+                                                    <a class="list_menu__item list_menu__add" title="添加到歌单">
+                                                        <i class="list_menu__icon_add"></i>
+                                                        <span class="icon_txt">添加到歌单</span>
+                                                    </a>
+                                                    <a class="list_menu__item list_menu__share" title="分享">
+                                                        <i class="list_menu__icon_share"></i>
+                                                        <span class="icon_txt">分享</span>
+                                                    </a>
+                                                </div>
+                                            </div>
+                                            <div class="songlist__artist">
+                                                <a class="playlist__author" title="宇多田光 (宇多田ヒカル)" href="/n/ryqq/singer/002JptyK0sIn6P">宇多田光 (宇多田ヒカル)</a>
+                                            </div>
+                                            <div class="songlist__time">04:12</div>
+                                        </div>
+                                    </li>
+                                    <li>
+                                        <div class="songlist__item">
+                                            <div class="songlist__number songlist__number--top">2</div>
+                                            <div class="songlist__songname">
+                                                <i class="songlist__icon songlist__icon_vip sprite" title="VIP"></i>
+                                                <span class="songlist__songname_txt">
+                                                    <a title="Beautiful World (Da Capo Version)" href="/n/ryqq/songDetail/000R4Kdr4MI0Ee">Beautiful World (Da Capo Version)</a>
+                                                </span>
+                                                <div class="mod_list_menu">
+                                                    <a class="list_menu__item list_menu__play" title="播放">
+                                                        <i class="list_menu__icon_play"></i>
+                                                        <span class="icon_txt">播放</span>
+                                                    </a>
+                                                    <a class="list_menu__item list_menu__add" title="添加到歌单">
+                                                        <i class="list_menu__icon_add"></i>
+                                                        <span class="icon_txt">添加到歌单</span>
+                                                    </a>
+                                                    <a class="list_menu__item list_menu__share" title="分享">
+                                                        <i class="list_menu__icon_share"></i>
+                                                        <span class="icon_txt">分享</span>
+                                                    </a>
+                                                </div>
+                                            </div>
+                                            <div class="songlist__artist">
+                                                <a class="playlist__author" title="宇多田光 (宇多田ヒカル)" href="/n/ryqq/singer/002JptyK0sIn6P">宇多田光 (宇多田ヒカル)</a>
+                                            </div>
+                                            <div class="songlist__time">05:58</div>
+                                        </div>
+                                    </li>
+                                    <li>
+                                        <div class="songlist__item songlist__item--even">
+                                            <div class="songlist__number songlist__number--top">3</div>
+                                            <div class="songlist__songname">
+                                                <i class="songlist__icon songlist__icon_vip sprite" title="VIP"></i>
+                                                <span class="songlist__songname_txt">
+                                                    <a title="One Last Kiss (最后一吻) (Instrumental)" href="/n/ryqq/songDetail/001P5xRZ2aowpz">One Last Kiss (最后一吻) (Instrumental)</a>
+                                                </span>
+                                                <div class="mod_list_menu">
+                                                    <a class="list_menu__item list_menu__play" title="播放">
+                                                        <i class="list_menu__icon_play"></i>
+                                                        <span class="icon_txt">播放</span>
+                                                    </a>
+                                                    <a class="list_menu__item list_menu__add" title="添加到歌单">
+                                                        <i class="list_menu__icon_add"></i>
+                                                        <span class="icon_txt">添加到歌单</span>
+                                                    </a>
+                                                    <a class="list_menu__item list_menu__share" title="分享">
+                                                        <i class="list_menu__icon_share"></i>
+                                                        <span class="icon_txt">分享</span>
+                                                    </a>
+                                                </div>
+                                            </div>
+                                            <div class="songlist__artist">
+                                                <a class="playlist__author" title="宇多田光 (宇多田ヒカル)" href="/n/ryqq/singer/002JptyK0sIn6P">宇多田光 (宇多田ヒカル)</a>
+                                            </div>
+                                            <div class="songlist__time">04:12</div>
+                                        </div>
+                                    </li>
+                                    <li>
+                                        <div class="songlist__item">
+                                            <div class="songlist__number ">4</div>
+                                            <div class="songlist__songname">
+                                                <i class="songlist__icon songlist__icon_vip sprite" title="VIP"></i>
+                                                <span class="songlist__songname_txt">
+                                                    <a title="Beautiful World (Da Capo Version|Instrumental)" href="/n/ryqq/songDetail/0000SfOF48q0X4">Beautiful World (Da Capo Version|Instrumental)</a>
+                                                </span>
+                                                <div class="mod_list_menu">
+                                                    <a class="list_menu__item list_menu__play" title="播放">
+                                                        <i class="list_menu__icon_play"></i>
+                                                        <span class="icon_txt">播放</span>
+                                                    </a>
+                                                    <a class="list_menu__item list_menu__add" title="添加到歌单">
+                                                        <i class="list_menu__icon_add"></i>
+                                                        <span class="icon_txt">添加到歌单</span>
+                                                    </a>
+                                                    <a class="list_menu__item list_menu__share" title="分享">
+                                                        <i class="list_menu__icon_share"></i>
+                                                        <span class="icon_txt">分享</span>
+                                                    </a>
+                                                </div>
+                                            </div>
+                                            <div class="songlist__artist">
+                                                <a class="playlist__author" title="宇多田光 (宇多田ヒカル)" href="/n/ryqq/singer/002JptyK0sIn6P">宇多田光 (宇多田ヒカル)</a>
+                                            </div>
+                                            <div class="songlist__time">05:57</div>
