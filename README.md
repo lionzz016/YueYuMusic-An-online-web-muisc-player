@@ -5,7 +5,14 @@
 *2.音乐模块-用于展现歌曲、专辑、歌手信息和特别专栏等*  
 *3.播放模块-采用ffmpeg播放音乐*  
 **技术栈**
-***服务端：SpringBoot/SpringCloud/Redis/***
+***服务端：SpringBoot/SpringCloud/Redis/MybatisPlus/OpenFeign***
+***服务代理：Nginx***
+***业务接口注册；Nacos***  
+***数据库：MySQL***  
+***数据挖掘：Python***
+***客户端：Vue3/Pinia/Element-Plus***  
+***页内部分文本提供：DeepSeek-R1***  
+***歌曲数据来源：QQ音乐/Apple Music***  
 ## 悦语音乐-网页播放器
 ### 登录页面  
 ![login](https://github.com/user-attachments/assets/79306639-738f-4512-a7d6-434f0ebfd0fa)
