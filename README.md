@@ -12,7 +12,7 @@
 *3.播放模块-采用ffmpeg播放音乐。*  
 ## 🚀技术栈
 ***服务端：SpringBoot/SpringCloud/Redis/MybatisPlus/OpenFeign***  
-***版本控制、发布：Docker***
+***版本控制、发布：Docker***  
 ***服务代理：Nginx***  
 ***业务接口注册；Nacos***  
 ***数据库：MySQL***  
