@@ -1,84 +1,31 @@
-<h1>聆听悦语音乐</h1>
-<div align="center">
-  <h1>🎧 悦语音乐 - Vue3 音乐播放器</h1>
-  <p>✨ 基于现代 Web 技术打造的沉浸式音乐体验</p>
-
-  [![GitHub license](https://img.shields.io/github/license/你的用户名/悦语音乐)](https://github.com/你的用户名/悦语音乐)
-  [![Vue](https://img.shields.io/badge/Vue-3.3.4-brightgreen)](https://vuejs.org/)
-  [![npm](https://img.shields.io/badge/npm-9.6.7-blue)](https://www.npmjs.com/)
-  [![GitHub stars](https://img.shields.io/github/stars/你的用户名/悦语音乐)](https://github.com/你的用户名/悦语音乐/stargazers)
-
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3ZobGZ2d3JwZ3RmdjFyemRjZ3B4a2FjM3h5c2NtamJ6N3E2Z2N2ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7abKhK8q4jSTPqI8/giphy.gif" width="600" alt="demo"/>
-</div>
-
-## 🚀 快速开始
-```bash
-# 克隆项目
-git clone https://github.com/你的用户名/悦语音乐.git
-
-# 安装依赖
-npm install
-
-# 启动开发服务器
-npm run dev
-
-# 构建生产版本
-npm run build
-🎨 界面功能
-🔑 登录界面
-登录界面截图
-
-双因素认证：邮箱/手机号 + 密码登录
-
-社交登录：GitHub/微信/Google 快捷接入
-
-动态验证：实时表单校验 + 图形验证码
-
-主题切换：支持深浅双色模式
-🎵 主界面
-主界面截图
-
-播放器功能：
-
-波形可视化（Web Audio API）
-
-歌词逐字同步（LRC 解析）
-
-音效预设（流行/古典/摇滚）
-
-特色模块：
-
-智能推荐歌单
-
-多设备同步控制
-
-歌曲弹幕互动
-🛠️ 技术架构
-前端核心
-框架: Vue3 + TypeScript
-
-状态管理: Pinia
-
-样式引擎: Sass + CSS Modules
-
-构建工具: Vite 4
-后端服务
-运行时: Node.js 18
-
-框架: NestJS
-
-数据库: MongoDB Atlas
-
-鉴权: JWT + Redis
-🤝 参与贡献
-Fork 项目仓库
-
-创建新分支 (git checkout -b feat/your-feature)
-
-提交修改 (git commit -m 'Add some feature')
-
-推送分支 (git push origin feat/your-feature)
-
-提交 Pull Request
-📜 开源协议
-MIT License © 2024-2025 lionzz016 
+# 版本更新日志
+# 关于项目
+*这是一个在线网页音乐播放器，具有用户模块、音乐模块和播放模块三大主要功能模块*  
+*1.用户模块-支持用户管理、登录和注册*  
+*2.音乐模块-用于展现歌曲、专辑、歌手信息和特别专栏等*  
+*3.播放模块-采用ffmpeg播放音乐*
+## 悦语音乐-网页播放器
+### 登录页面  
+![login](https://github.com/user-attachments/assets/79306639-738f-4512-a7d6-434f0ebfd0fa)
+### 注册界面  
+![registry](https://github.com/user-attachments/assets/b9a502c9-3c83-422a-89b1-7ada838861fd)
+### 主页
+*暂时没有浏览推送界面，将在后续版本发布*  
+### 曲库板块  
+*歌曲浏览界面*
+#### 节日、事件特辑  
+![special_item](https://github.com/user-attachments/assets/2b626f1a-e9c9-4775-8eb0-b4219156dce6)  
+#### 特别推荐  
+![recommend_item](https://github.com/user-attachments/assets/32b98206-74b1-4f0d-ab46-9728c72cc08c)  
+#### 新歌推荐  
+![new_item](https://github.com/user-attachments/assets/0d268328-aebe-422f-a645-fc443f600c1c)  
+### 艺人板块  
+#### 艺人主页示例1  
+![exp1_artist_details](https://github.com/user-attachments/assets/6bff0722-5d1e-4a21-8d66-139e5e1e78a5)  
+#### 艺人主页示例2  
+![exp2_artist_details](https://github.com/user-attachments/assets/e74ae1b7-4bda-456c-b5f4-77bed382de2d)  
+#### 艺人主页示例3  
+![exp3_artist_details](https://github.com/user-attachments/assets/2c794458-86bc-440e-bd28-8a0445c0f503)  
+### 专辑板块  
+#### 国语流行/C-Pop 条目示例
+![cpop_album_item](https://github.com/user-attachments/assets/27e2d449-b0bb-4ed6-bb96-930333fc2874)
