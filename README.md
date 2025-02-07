@@ -24,3 +24,4 @@ npm run dev
 
 # 构建生产版本
 npm run build
+<div align="center"> <img src="./screenshots/login.png" width="400" alt="登录界面"/>
