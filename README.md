@@ -58,6 +58,8 @@
 #### 艺人主页示例3  
 ![exp3_artist_details](https://github.com/user-attachments/assets/2c794458-86bc-440e-bd28-8a0445c0f503)  
 ### 专辑板块(Albums)  
+#### 专辑信息示例  
+![exp_album_details](https://github.com/user-attachments/assets/db7e1c8c-7422-4877-b444-0fc458972e6e)  
 #### 国语流行/C-Pop 条目示例
 ![cpop_album_item](https://github.com/user-attachments/assets/27e2d449-b0bb-4ed6-bb96-930333fc2874)  
 ### 用户(User)  
