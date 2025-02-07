@@ -1,0 +1,4 @@
+ym:
+  db:
+    host: sql
+    pw: cjp
