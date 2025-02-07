@@ -167,3 +167,13 @@
                                                 <a class="playlist__author" title="宇多田光 (宇多田ヒカル)" href="/n/ryqq/singer/002JptyK0sIn6P">宇多田光 (宇多田ヒカル)</a>
                                             </div>
                                             <div class="songlist__time">05:57</div>
+
+                                            ***℗ Warner Music Ltd***
+                                            ***℗ Sony Music Entertainment Ltd***
+                                            ***℗ JVR Music International Ltd***
+                                            ***℗ Kakao Entertainment Corp***
+                                            ***℗ Fu Music Limited***
+                                            ***℗ 百沐娱乐***
+                                            ***℗ 太合麦田***
+                                            ***℗ StreetVoice***
+                                            ***℗ 银翼文创 Mr.Wing Creative***
