@@ -33,7 +33,9 @@
 ***℗ 太合麦田***  
 ***℗ StreetVoice***  
 ***℗ 银翼文创 Mr.Wing Creative***  
-## 悦语音乐-网页播放器
+## 悦语音乐-网页播放器  
+![show_page](https://github.com/user-attachments/assets/c57c1637-3734-4ae9-bedb-e3db9efca82f)  
+
 ### 登录页面(Login)  
 ![login](https://github.com/user-attachments/assets/79306639-738f-4512-a7d6-434f0ebfd0fa)
 ### 注册界面(Registry)  
