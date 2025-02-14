@@ -1,4 +1,5 @@
 # ✍版本更新日志
+*2025/02/03-更新了曲库，修改了部分页面样式。(Ver0.1.3)*
 *2025/01/28-悦语音乐网页播放器YueYuMusic Web Player正式上线。(Ver0.1.0)*  
 *2025/01/27-项目已打包并发布。*
 *2025/01/06-增加了完成了前期所有页面设计，增加了一些实体类，提供了用户登录系统。(ver0.0.7)*  
@@ -34,7 +35,7 @@
 ***℗ StreetVoice***  
 ***℗ 银翼文创 Mr.Wing Creative***  
 ## 悦语音乐-网页播放器  
-![show_page](https://github.com/user-attachments/assets/c57c1637-3734-4ae9-bedb-e3db9efca82f)  
+![original](https://github.com/user-attachments/assets/6c5facc9-bc63-40ac-b91b-accd3de0918d)  
 
 ### 登录页面(Login)  
 ![login](https://github.com/user-attachments/assets/79306639-738f-4512-a7d6-434f0ebfd0fa)
